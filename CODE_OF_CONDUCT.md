@@ -35,6 +35,7 @@ Examples of unacceptable behavior include:
   address, without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
+* All projects should have a clear name and no be in any way harmful to others.
 
 ## Enforcement Responsibilities
 
@@ -47,6 +48,8 @@ Community leaders have the right and responsibility to remove, edit, or reject
 comments, commits, code, wiki edits, issues, and other contributions that are
 not aligned to this Code of Conduct, and will communicate reasons for moderation
 decisions when appropriate.
+
+Commenting can be help to people who are new here.
 
 ## Scope
 
@@ -65,6 +68,8 @@ All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
+
+If anything enforced here is in anyway sexualizing it will be cancelled without further concerns.
 
 ## Enforcement Guidelines
 
